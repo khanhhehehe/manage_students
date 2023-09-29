@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077020867004",
+    "project_id": "fluttermanagestudents",
+    "storage_bucket": "fluttermanagestudents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077020867004:android:4610eeb829a2a8cce913b9",
+        "android_client_info": {
+          "package_name": "com.example.manage_students"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6XZW6mEMVlIiY5rg-u1HbvEj_VVgqq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
